@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Backend BuroQ</h3>
   <p align="center">
-    <a href="https://github.com/mhmdiamd/be-tiket-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dhimasswara/BE-TICKETAPP"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://be-tiket-app.up.railway.app">View Demo</a>
     ·
@@ -189,9 +189,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend BuroQ`](https://github.com/ikkair/be-tiket-app)
+:rocket: [`Backend BuroQ`](https://github.com/dhimasswara/BE-TICKETAPP)
 
-:rocket: [`Frontend BuroQ`](https://github.com/ikkair/ui-tiket-app)
+:rocket: [`Frontend BuroQ`](https://github.com/dhimasswara/UI-TICKETAPP)
 
 :rocket: [`Demo BuroQ`](https://buroq.vercel.app/)
 
@@ -242,5 +242,5 @@ Contributions are what make the open source community such an amazing place to b
 </center>
 
 
-Project Link: [https://github.com/ikkair/be-tiket-app/](https://github.com/ikkair/be-tiket-app)
+Project Link: [https://github.com/dhimasswara/BE-TICKETAPP/](https://github.com/dhiamsswara/BE-TICKETAPP)
 
