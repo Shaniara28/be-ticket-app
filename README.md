@@ -242,5 +242,5 @@ Contributions are what make the open source community such an amazing place to b
 </center>
 
 
-Project Link: [https://github.com/dhimasswara/BE-TICKETAPP](https://github.com/dhiamsswara/BE-TICKETAPP)
+Project Link: [https://github.com/dhimasswara/BE-TICKETAPP](https://github.com/dhimasswara/BE-TICKETAPP)
 
