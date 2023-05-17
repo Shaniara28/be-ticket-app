@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Backend BuroQ</h3>
   <p align="center">
-    <a href="https://github.com/dhimasswara/BE-TICKETAPP"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Shaniara28/be-ticket-app"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://be-tiket-app.up.railway.app">View Demo</a>
     ·
@@ -112,7 +112,7 @@ API endpoint list are also available as published postman documentation
 - Clone This Back End Repo
 
 ```
-git clone https://github.com/ikkair/be-tiket-app.git
+git clone https://github.com/Shaniara28/be-ticket-app
 ```
 
 - Go To Folder Repo
@@ -189,9 +189,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend BuroQ`](https://github.com/dhimasswara/BE-TICKETAPP)
+:rocket: [`Backend BuroQ`](https://github.com/Shaniara28/be-ticket-app)
 
-:rocket: [`Frontend BuroQ`](https://github.com/dhimasswara/UI-TICKETAPP)
+:rocket: [`Frontend BuroQ`](https://github.com/Shaniara28/ui-tiket-app)
 
 :rocket: [`Demo BuroQ`](https://buroq.vercel.app/)
 
@@ -209,31 +209,31 @@ Contributions are what make the open source community such an amazing place to b
     <tr >
       <td align="center">
         <a href="https://github.com/mhmdiamd">
-          <img width="200"  src="./documentation/ilham.png" alt="Ikhlasul Kamal Irmansyah"><br/>
+          <img width="200"  src="./documentation/ilham.png" alt="Muhamad Ilham Darmawan"><br/>
           <b>Muhamad Ilham Darmawan</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Dhimasswara">
-          <img width="200"  src="./documentation/dhimas.png" alt="Alif Anke Bima Putra"><br/>
+          <img width="200"  src="./documentation/dhimas.png" alt="Dhimas Pandu Yogaswara"><br/>
           <b>Dhimas Pandu Yogaswara</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Shaniara28">
-          <img width="200"  src="./documentation/shania.png" alt="Andiko Oktavianto"><br/>
+          <img width="200"  src="./documentation/shania.png" alt="Shania Rizky Agustin"><br/>
           <b>Shania Rizky Agustin</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/VerdyNordsten">
-          <img width="200"   src="./documentation/verdy.png" alt="Muhamad Ilham Darmawan"><br/>
+          <img width="200"   src="./documentation/verdy.png" alt="Verdy Prido Lughara"><br/>
           <b>Verdy Prido Lughara</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ikkair">
-          <img width="200"  src="./documentation/kamal.png" alt="Dhimas Pandu Yogaswara"><br/>
+          <img width="200"  src="./documentation/kamal.png" alt="Ikhlasul Kamal Irmansyah"><br/>
           <b>Ikhlasul Kamal Irmansyah</b>
         </a>
       </td>
@@ -242,5 +242,5 @@ Contributions are what make the open source community such an amazing place to b
 </center>
 
 
-Project Link: [https://github.com/dhimasswara/BE-TICKETAPP](https://github.com/dhimasswara/BE-TICKETAPP)
+Project Link: [https://github.com/Shaniara28/be-ticket-app](https://github.com/Shaniara28/be-ticket-app)
 
